@@ -8,8 +8,8 @@
 /* WIFI DETAILS HERE..........................................*/
 
 ESP8266WebServer server;
-char* ssid = "EE-Hub-Z9Sc";
-char* password = "ELM-remit-ever";
+char* ssid = "";
+char* password = "";
 
 /* HTML DOC saved to Flash...................................................*/
 
